@@ -15,5 +15,8 @@ play with quakes...
 Exercise :
 - try to go BACKWARD using the git class knowledge you just acquired !
 
+network edit : 
+butin et tokeul
+
 
 
