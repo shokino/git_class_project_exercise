@@ -15,10 +15,7 @@ play with quakes...
 Exercise :
 - try to go BACKWARD using the git class knowledge you just acquired !
 
-network edit : 
-butin et tokeul
-
-
+network edit : butin et tokeul => nice ideas for the computer names !
 
 This is a local edit by a colleague
 
